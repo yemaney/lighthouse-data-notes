@@ -42,6 +42,8 @@ df_train.drop(to_drop, axis=1, inplace=True)``
 * fill with
     *``` df[cl] = df[cl].fillna(tuff)```
 
+ ---   
+
 # Value Transformation
 * Operation between columns to creat another column
 * scale data with normalize, standardize

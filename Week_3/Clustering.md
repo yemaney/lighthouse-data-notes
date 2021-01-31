@@ -9,7 +9,7 @@ Clustering is the task of dividing a population or data points into several grou
 
 * Types of Clustering Models
     * Centroid
-        * find the k cluster centers and assign the objects to the nearest cluster center such that the squared distances from the cluster are minimized.
+        * randomly select spots for k-number of mean points, adust the position to average of clusters, repeat such that the squared distances from the cluster are minimized.
     * Hierarchical 
         * Every point is a cluster, connect closest points in order to creat bigger clusters
     * Density
@@ -84,4 +84,3 @@ Clustering is the task of dividing a population or data points into several grou
     plt.show()
 
  ---
-
