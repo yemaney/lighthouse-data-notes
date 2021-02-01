@@ -27,3 +27,6 @@ Designed to give a breif summary of the subjects covered by formatting with week
 - [Week 4](/Week_4)
     - Dimensionality Reduction
     - Regression and Error
+    - Regularization and Bias
+    - Gradient_Descent
+    - Classes
