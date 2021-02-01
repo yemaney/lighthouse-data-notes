@@ -7,12 +7,12 @@ Designed to give a breif summary of the subjects covered by formatting with week
 
 ## Table Of Contents
 - [Week 1](/Week_1)
-    - API
-    - Bash
-    - Collections
-    - Pandas
-    - Python
-    - SQL
+    - [API](/Week_1/API.md)
+    - [Bash](/Week_1/Bash.md)
+    - [Collections](/Week_1/collections.md)
+    - [Pandas](/Week_1/pandas.md)
+    - [Python](/Week_1/python.md)
+    - [SQL](/Week_1/SQL.md)
 - [Week 2](/Week_2)
     - Pandas2
     - Regex
