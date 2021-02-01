@@ -35,8 +35,8 @@
 
 | equation      | constraints                                           |
 |---------------|-------------------------------------------------------|
-| Least squares | Min ( Sum of squared residuals                        |
-| Lasso         | Min ( Sum of squared residuals + \lambda x \|slope\|) |
+| Least squares | Min ( Sum of squared residuals )                        |
+| Lasso         | Min ( Sum of squared residuals + \lambda x \|slope\| ) |
 
 ---
 
