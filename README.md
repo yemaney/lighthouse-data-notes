@@ -17,7 +17,7 @@ Designed to give a breif summary of the subjects covered by formatting with week
 - [Week 2 - Data Wrangling](/Week_2)
     - [Pandas2](/Week_2/Pandas2.md)
     - [Regex](/Week_2/Regex.md)
-    - [SQL Windows Functions](/Week_2/SQL_Window_Functions)
+    - [SQL Windows Functions](/Week_2/SQL_Window_Functions.md)
     - [Statistics](/Week_2/Statistics.md)
     ---
 - [Week 3 - Data Visualization and ML](/Week_3)
@@ -34,3 +34,4 @@ Designed to give a breif summary of the subjects covered by formatting with week
     - [Gradient_Descent](/Week_4/Gradient_Descent.md)
     - [Classes](/Week_4/Classes.md)
     ---
+- [Week 5](/Week_4)
