@@ -9,7 +9,9 @@
 - Ordinal Logistic Regression:
     - three or more ordinal categories
 ---
-
+- sigmoid, `logistic function` gives an ‘S’ shaped curve that can take any real-valued number and `map it into a value between 0 and 1`
+- If the output of the sigmoid function is `more than 0.5`, we can classify the outcome as `1 or YES`, and if it is `less than 0.5`, we can classify it as `0 or NO.`
+---
 ### Model
 ```python
 # import the class
@@ -21,9 +23,8 @@ logreg = LogisticRegression()
 # fit the model with data
 logreg.fit(X_train,y_train)
 
-#
+# prediction
 y_pred=logreg.predict(X_test)
-Model Evaluation using Confusion Matrix
 ```
 ### Evaluate on confusion matrix
 ```python
