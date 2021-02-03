@@ -35,6 +35,6 @@ Designed to give a breif summary of the subjects covered by formatting with week
     - [Classes](/Week_4/Classes.md)
     ---
 - [Week 5](/Week_5)
-    - [Cross Validation](/Cross_Validation.md)
-    - [Model Evaluation](/Model_Evaluation.md)
-    - [Logistic Regression and GLM](/LogReg_GLM.md)
+    - [Cross Validation](/Week_5/Cross_Validation.md)
+    - [Model Evaluation](/Week_5/Model_Evaluation.md)
+    - [Logistic Regression and GLM](/Week_5/LogReg_GLM.md)
