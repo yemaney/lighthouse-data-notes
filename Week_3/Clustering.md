@@ -20,13 +20,13 @@ Clustering is the task of dividing a population or data points into several grou
 
 * Import code: 
     * ```python 
-        from sklearn.cluster import KMeans
-        ```
+      from sklearn.cluster import KMeans
+      ```
 * Instantiate KMean class
     *  ```python       
-            km = KMeans(n_clusters=3, # how many clusters we expected   
-            n_init=10, # how many initial runs
-            random_state=0)
+        km = KMeans(n_clusters=3, # how many clusters we expected   
+        n_init=10, # how many initial runs
+        random_state=0)
         ```
 
 * Fit and predict the data with KM
@@ -48,18 +48,18 @@ Clustering is the task of dividing a population or data points into several grou
         ```                    
 * Fit and Predict
     * ```python 
-        y_hc = ac.fit_predict(X)
-        ```        
+       y_hc = ac.fit_predict(X)
+      ```        
 
 ## Density 
 
 * Import code
-    *  ```python 
+    *```python 
         from sklearn.cluster import DBSCAN
         ```
 * Instantiate obj from AGgCl class
-    *   ```python 
-         db = DBSCAN(eps=0.5,
+    *  ```python 
+        db = DBSCAN(eps=0.5,
             min_samples=5,
             metric='euclidean')
         ```                
@@ -71,7 +71,7 @@ Clustering is the task of dividing a population or data points into several grou
 
 ## Elbow Rule
 ```python 
-    def plot_distortion(X,max_clusters = 10):
+def plot_distortion(X,max_clusters = 10):
     distortions = []
     for i in range(1, max_clusters +1):
         km = KMeans(n_clusters=i,
@@ -89,7 +89,7 @@ Clustering is the task of dividing a population or data points into several grou
 ---
 ## Dendrogram
  ```python 
-    def plot_dendrogram(X,method ='ward'):
+def plot_dendrogram(X,method ='ward'):
     dendrogram = sch.dendrogram(sch.linkage(X, method=method))
     plt.title("Dendrogram")
     plt.ylabel("Euclidean distances")
