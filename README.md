@@ -34,6 +34,7 @@ Designed to give a breif summary of the subjects covered by formatting with week
     - [Gradient_Descent](/Week_4/Gradient_Descent.md)
     - [Classes](/Week_4/Classes.md)
     ---
-- [Week 5](/Week_4)
+- [Week 5](/Week_5)
     - [Cross Validation](/Cross_Validation.md)
     - [Model Evaluation](/Model_Evaluation.md)
+    - [Logistic Regression and GLM](/LogReg_GLM.md)
