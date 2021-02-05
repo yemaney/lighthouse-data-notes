@@ -38,3 +38,5 @@ Designed to give a breif summary of the subjects covered by formatting with week
     - [Cross Validation](/Week_5/Cross_Validation.md)
     - [Model Evaluation](/Week_5/Model_Evaluation.md)
     - [Logistic Regression and GLM](/Week_5/LogReg_GLM.md)
+    - [Decision Trees - Random Forest -XGBoost](/Week_5/TreeForest_XGB.md)
+    - [Naive Bayes - SVM](/Week_5/NaiveBayes_SVM.md)
