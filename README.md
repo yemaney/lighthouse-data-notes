@@ -35,7 +35,7 @@ Designed to give a breif summary of the subjects covered by formatting with week
     - [Classes](/Week_4/Classes.md)
     ---
 - [Week 5](/Week_5)
-    - [Cross Validation](/Week_5/Cross_Validation.md)
+    - [Cross Validation](/Week_5/CrossVal_GridSearch.md)
     - [Model Evaluation](/Week_5/Model_Evaluation.md)
     - [Logistic Regression and GLM](/Week_5/LogReg_GLM.md)
     - [Decision Trees - Random Forest -XGBoost](/Week_5/TreeForest_XGB.md)
