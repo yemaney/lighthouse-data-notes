@@ -5,10 +5,10 @@
 <img src="https://miro.medium.com/max/1468/1*LB-G6WBuswEfpg20FMighA.png" alt="drawing" width="200" height="70"/>
 
 - The general idea:
-    1. Start off with an in initial or prior probability for each class
-    2. Calculate the odds of each attribute for each class
-    3. Use bayes theorom to calculate the odds of each class with the given attributes
-    4. The class with the highest odds is predicted as the true by naive bayes 
+    1. Start off with an in initial or `prior probability` for each class
+    2. Calculate the `odds of each attribute` for each class
+    3. Use `bayes theorom` to calculate the odds of `each class with the given attributes`
+    4. The class with the `highest odds is predicted` as the true by naive bayes 
 
 
 ```python
