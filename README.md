@@ -40,3 +40,5 @@ Designed to give a breif summary of the subjects covered by formatting with week
     - [Logistic Regression and GLM](/Week_5/LogReg_GLM.md)
     - [Decision Trees - Random Forest -XGBoost](/Week_5/TreeForest_XGB.md)
     - [Naive Bayes - SVM](/Week_5/NaiveBayes_SVM.md)
+- [Week 7](/Week_7)
+    - [Pipelines](/Pipelines.md)
