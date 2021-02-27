@@ -42,3 +42,4 @@ Designed to give a breif summary of the subjects covered by formatting with week
     - [Naive Bayes - SVM](/Week_5/NaiveBayes_SVM.md)
 - [Week 7](/Week_7)
     - [Pipelines](/Week_7/Pipelines.md)
+    - [Flask](/Week_7/Flask.md)
