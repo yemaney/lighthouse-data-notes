@@ -3,7 +3,7 @@
 ## Summary
 This repository contains all of the notes taken by [Yemane](https://github.com/yemaney) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Data Science Bootcamp.
 
-Designed to give a breif summary of the subjects covered by formatting with week and topic labels. 
+Designed to give a breif summary of the subjects covered with short explanations and code snippets. Formatted by week and topic labels for convenience . 
 
 ## Table Of Contents
 - [Week 1 - Tech Fundamentals](/Week_1)
@@ -48,3 +48,4 @@ Designed to give a breif summary of the subjects covered by formatting with week
     ---
 - [Week 8](/Week_8)
     - [Neural Networks](/Week_8/Neural_Networks.md)
+    - [Convolutional Neural Network](/Week_8/Convolutional_NN.md)
