@@ -49,3 +49,5 @@ Designed to give a breif summary of the subjects covered with short explanations
 - [Week 8](/Week_8)
     - [Neural Networks](/Week_8/Neural_Networks.md)
     - [Convolutional Neural Network](/Week_8/Convolutional_NN.md)
+    - [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)
+](/Week_8/RNN_LSTM.md)
