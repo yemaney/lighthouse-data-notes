@@ -52,3 +52,4 @@ Designed to give a breif summary of the subjects covered with short explanations
     - [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)
 ](/Week_8/RNN_LSTM.md)
     - [Natural Language Processing](/Week_8/Natural_Language_Processing.md)
+    - [Sentiment Analysis](/Week_8/Sentiment_Analysis.md)
