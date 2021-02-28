@@ -44,3 +44,5 @@ Designed to give a breif summary of the subjects covered by formatting with week
     - [Pipelines](/Week_7/Pipelines.md)
     - [Flask](/Week_7/Flask.md)
     - [Docker](/Week_7/Docker.md)
+- [Week 8](/Week_8)
+    - [Neural Networks](/Week_8/Neural_Networks.md)
