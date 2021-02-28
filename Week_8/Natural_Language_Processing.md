@@ -94,4 +94,4 @@ stemmed = [porter.stem(word) for word in tokens]
 
 <img src="https://miro.medium.com/max/704/1*VE6e-n7Ot2cy3N6PVnibAw.png">
 
-[soruce](https://medium.com/@zafaralibagh6/a-simple-word2vec-tutorial-61e64e38a6a1)
+[source](https://medium.com/@zafaralibagh6/a-simple-word2vec-tutorial-61e64e38a6a1)
