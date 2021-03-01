@@ -53,3 +53,4 @@ Designed to give a breif summary of the subjects covered with short explanations
 ](/Week_8/RNN_LSTM.md)
     - [Natural Language Processing](/Week_8/Natural_Language_Processing.md)
     - [Sentiment Analysis](/Week_8/Sentiment_Analysis.md)
+    - [Topic Modeling](/Week_8/Topic_Modeling.md)
