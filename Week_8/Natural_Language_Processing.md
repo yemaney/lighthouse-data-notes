@@ -91,6 +91,22 @@ stemmed = [porter.stem(word) for word in tokens]
     - a vector with several dimensions
     - each word is represented by a distribution of weights across those elements.
     - each element in the vector contributes to the definition of many words
+```python
+from gensim.models import Word2Vec
+
+# create model
+word2vec = Word2Vec(all_words, min_count=2)
+
+# dictionary of unique words that exist at least twice in the corpus
+vocabulary = word2vec.wv.vocab
+print(vocabulary)
+
+# view vector representation of any particular word
+v1 = word2vec.wv['artificial']
+
+# finding similar words
+sim_words = word2vec.wv.most_similar('intelligence')
+```
 
 <img src="https://miro.medium.com/max/704/1*VE6e-n7Ot2cy3N6PVnibAw.png">
 
