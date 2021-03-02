@@ -26,6 +26,7 @@ LSTM are a more complicated versoin of RNN's
     - if 0 then previous internal sate completely forgotten
     - if 1 then it will be passed through
 ### Input gate
+#### Motivation: A reccurent model needs to know how to update it's state
 - take previous output and new inputs
     - apply sigmoid 
     - multiply output with candidate layer
